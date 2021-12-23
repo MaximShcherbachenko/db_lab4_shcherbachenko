@@ -56,6 +56,12 @@ INSERT INTO Drivercarnumber(driver_id, driver_num)
 VALUES(4, '14');
 INSERT INTO Drivercarnumber(driver_id, driver_num)
 VALUES(5, '16');
+INSERT INTO Drivercarnumber(driver_id, driver_num)
+VALUES(6, '14');
+INSERT INTO Drivercarnumber(driver_id, driver_num)
+VALUES(7, '22');
+INSERT INTO Drivercarnumber(driver_id, driver_num)
+VALUES(8, '75');
 
 
 ------------------------
